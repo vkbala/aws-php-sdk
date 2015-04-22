@@ -25,7 +25,10 @@ I have included the demo page (index.php) for your quick workaround in this repo
 The Demo page will explain the following functionality, 
 
 1) Upload Assets/files to your S3 bucket 
+
 2) Access the Upload S3 Assets/files via CloudFront using AWS Signature method.
+
 3) Delete Uploaded S3 Assets (or) files (or) folder
+
 
 You can run this in your local machine (apache (xampp or wamp) server). 
